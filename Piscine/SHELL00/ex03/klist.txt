@@ -1,0 +1,5 @@
+Credentials cache: API:4468
+        Principal: edblonde@42NICE.FR
+
+  Issued                Expires               Principal
+Jun  3 11:38:54 2021  Jun  3 21:38:54 2021  krbtgt/42NICE.FR@42NICE.FR
